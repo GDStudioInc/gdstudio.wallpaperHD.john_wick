@@ -1,7 +1,7 @@
 {
-  "admob_banner_id": "",
-  "admob_interstitial_id": "",
-  "admob_native_id": "",
+  "admob_banner_id": "ca-app-pub-7042307061831552/8987163103",
+  "admob_interstitial_id": "ca-app-pub-7042307061831552/2230183062",
+  "admob_native_id": "ca-app-pub-7042307061831552/4663940566",
   "banner_category_position": 4,
   "enable_banner_category": true,
   "enable_banner_in_menu": true,
